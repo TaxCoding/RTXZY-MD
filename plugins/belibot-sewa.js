@@ -19,11 +19,11 @@ var gh = 'https://github.com/TaxCoding'
 'mediaType':2,
 'previewType':'pdf',
 'title':'Follow Github Gua',
-'body':'© BOTCAHX',
-'thumbnail':await(await fetch('https://telegra.ph/file/f4063ab3071f5c4af765a.png')).buffer(),
+'body':'© Rimuru Tempest',
+'thumbnail':await(await fetch('https://i.ibb.co/f10QRX9/20230119-143413.jpg')).buffer(),
 'sourceUrl':gh}},
 'caption':'Hi, Silahkan pilih opsi di bawah ini.\n*Payment*\n\n*x* Dana: 081364440831\n*x* Pulsa: 081364440831',
-'footer':'©RimuruMD',
+'footer':'©Rimuru BotMD',
 'buttons':[
 {'buttonId':'.menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
 {'buttonId':'.donasi','buttonText':{'displayText':'ᴅᴏɴᴀsɪ'},'type':1}
